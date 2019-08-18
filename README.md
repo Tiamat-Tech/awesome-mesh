@@ -40,6 +40,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [B.A.T.M.A.N.](https://www.open-mesh.org) (better approach to mobile ad-hoc networking) - The newest version, Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. It can be found as [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) in the linux kernel. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
+* [BMX 6/7 - Batman eXperimental](https://bmx6.net/projects/bmx6) - Mesh routing protocol. [Source Code](https://github.com/bmx-routing) `GPLv2` `C`
+
 * [cjdns](https://github.com/cjdelisle/cjdns/) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) `GPLv3` `C`
 
 * [Garlic Network](https://github.com/The-Garlic-Network) - Decentralized garlic peer-to-peer mesh network. `MIT` `C++`
