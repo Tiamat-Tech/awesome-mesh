@@ -44,7 +44,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) `GPLv3` `C`
 
-* [Garlic Network](https://github.com/The-Garlic-Network) - Decentralized garlic peer-to-peer mesh network. `MIT` `C++`
+* [Garlic Network](https://garlic.network) - Decentralized garlic peer-to-peer mesh network. [Source Code](https://github.com/The-Garlic-Network) `MIT` `C++`
 
 * [GNUnet](https://gnunet.org/) - A mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack. [Source Code](https://gnunet.org/git/) `GPLv3` `Java` (Various)
 
